@@ -1,0 +1,15 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+}
+.parent {
+  display: flex;
+  gap: 1rem;
+}
+nav {
+  background-color: rgb(147, 146, 146);
+}
+nav i {
+  color: rgb(255, 255, 255);
+  background-attachment: fixed;
+}
