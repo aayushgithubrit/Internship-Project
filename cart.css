@@ -1,0 +1,184 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+
+}
+
+#heading h1{
+    padding-top: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+#nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 25px 170px;
+}
+#left button{
+    background: transparent;
+    border: none;
+
+}
+#mid a{
+    text-decoration: none;
+    padding: 0px 15px;
+    color: #000;
+    font-size: 13px;
+    font-weight: 600;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+#pink_div {
+    padding: 50px 100px;
+    background-color: #ffd7d7;
+}
+#heading1 h5 i{
+   padding: 0px 10px;
+   font-size: 20px;
+   align-items: center;
+}
+#heading1 h5{
+    font-weight: 400;
+}
+#page1{
+    padding-top: 20px;
+}
+#box-heading{
+    padding-left: 200px;
+}
+#box-heading a{
+   text-decoration: none;
+   color: #000;
+   padding: 0px 20px;
+}
+#boxes{
+    padding: 0px 250px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+#box1{
+    padding: 20px 50px;
+    background-color: #ffd7d7;
+
+}
+.detail span{
+     color: #a7a2a2;
+     font-weight: 400;
+}
+.b1{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.b1 img{
+    height: 90px;
+    width: 80px;
+}
+.qty{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+   
+}
+.qty button{
+    padding: 0px 10px;
+    background-color: transparent;
+}
+.qty p{
+    padding: 0px 10px;
+
+}
+.total-price{
+    
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.total-price button{
+    padding: 0px 12px;
+    border: none;
+    background-color: transparent;
+}
+#box2{
+    padding: 20px 20px;
+    background-color: #ffd7d7;
+
+}
+#btn1 #one{
+    padding: 10px 16px;
+    background-color: transparent;
+}
+#btn1 #two{
+    padding: 10px 30px;
+    color: #fff;
+    background-color: #000;
+}
+#boucher1{
+    display: flex;
+    /* align-items: center; */
+    justify-content: space-between;
+}
+#boucher1 h5 span{
+    font-size: 10px;
+    color: #a29f9f;
+    font-weight: 400;
+}
+#boucher2{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+#boucher2 h5 span{
+    font-size: 10px;
+    color: #a29f9f;
+    font-weight: 400;
+}
+#three{
+    padding: 9px 70px;
+    color: #fff;
+    background-color: #000;
+}
+#cards-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 0px 100px;
+}
+.c1 img{
+    padding-top: 20px;
+    height: 300px;
+    width: 300px;
+
+}
+.content1{
+    padding: 10px 0px;
+    text-align: center;
+    width: 300px;
+    background-color: #fff;
+}
+#page4 h1{
+    padding-top: 20px;
+    text-align: center;
+
+}
+#page4{
+    padding-bottom: 50px;
+}
+#page5{
+    background-color: #ffd7d7;
+
+}
+#footer{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 50px 70px;
+}
